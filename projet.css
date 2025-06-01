@@ -1,0 +1,318 @@
+/* --- Fond général vert très clair --- */
+body {
+    background: linear-gradient(120deg, #f0fdf4 0%, #e6ffe6 100%);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* --- Header avec dégradé vert --- */
+.green-gradient {
+    background: linear-gradient(135deg, #38a169 0%, #48bb78 100%);
+    color: white;
+}
+
+/* --- Conteneur centré --- */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* --- Bordure verte SEULEMENT pour les blocs avec images (recettes simples) --- */
+.recipe-card, .recette-image-block {
+    border: 1.5px solid #22c55e;
+}
+
+/* --- Ombre et arrondi --- */
+.rounded-lg { border-radius: 0.75rem; }
+.rounded { border-radius: 0.25rem; }
+.shadow-lg, .shadow-md {
+    box-shadow: 0 10px 20px rgba(34,197,94,0.10), 0 2px 4px rgba(34,197,94,0.08);
+}
+
+/* --- Hover vert uniquement sur les recipe-card (PAS sur la barre du haut) --- */
+.recipe-card.bg-white:hover {
+    border-color: #38a169 !important;
+    box-shadow: 0 12px 24px rgba(34,197,94,0.18);
+    transform: translateY(-4px) scale(1.03);
+    transition: all 0.2s;
+}
+
+/* --- Barre verte sous les titres principaux (SAUF .no-barre) --- */
+h2, h3, h4 {
+    position: relative;
+}
+h2::after, h3::after, h4:not(.no-barre)::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: #22c55e;
+    border-radius: 2px;
+    margin: 8px auto 0 auto;
+}
+/* Désactive la barre verte pour .no-barre */
+.no-barre::after {
+    display: none !important;
+}
+
+/* --- Badge vert pour les recettes simples --- */
+.badge-vert {
+    display: inline-block;
+    background: #22c55e;
+    color: #fff;
+    font-size: 0.75rem;
+    padding: 0.2em 0.7em;
+    border-radius: 9999px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
+
+/* --- Effet de survol vert sur les boutons et boutons jours --- */
+button, .day-btn {
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+button:hover, .day-btn:hover {
+    background: #38a169;
+    color: #fff;
+    box-shadow: 0 4px 16px rgba(34,197,94,0.18);
+    transform: scale(1.04);
+}
+
+/* --- Bordure verte sur les inputs actifs --- */
+input:focus, textarea:focus {
+    border-color: #22c55e;
+    box-shadow: 0 0 0 2px #bbf7d0;
+    outline: none;
+}
+
+/* --- Espacement --- */
+.p-4 { padding: 1rem; }
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+.py-3 { padding-top: 0.75rem; padding-bottom: 0.75rem; }
+.mb-4 { margin-bottom: 1rem; }
+.mb-2 { margin-bottom: 0.5rem; }
+.mr-1 { margin-right: 0.25rem; }
+.mr-4 { margin-right: 1rem; }
+.mb-3 { margin-bottom: 0.75rem; }
+.mt-8 { margin-top: 2rem; }
+.mt-12 { margin-top: 3rem; }
+
+/* --- Couleurs --- */
+.bg-white { background: #fff; }
+.bg-green-50 { background: #f0fdf4; }
+.bg-red-500 { background: #ef4444; }
+.bg-green-500 { background: #22c55e; }
+.text-white { color: #fff; }
+.text-gray-800 { color: #1f2937; }
+.text-gray-600 { color: #4b5563; }
+.text-gray-500 { color: #6b7280; }
+.text-lg { font-size: 1.125rem; }
+.text-xl { font-size: 1.25rem; }
+.text-2xl { font-size: 1.5rem; }
+.text-3xl { font-size: 1.875rem; }
+.text-sm { font-size: 0.875rem; }
+.text-xs { font-size: 0.75rem; }
+.font-bold { font-weight: bold; }
+.font-medium { font-weight: 500; }
+.text-center { text-align: center; }
+
+/* --- Flex et grille --- */
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.justify-between { justify-content: space-between; }
+.justify-center { justify-content: center; }
+.items-center { align-items: center; }
+.grid { display: grid; }
+.grid-cols-1 { grid-template-columns: 1fr; }
+.md\:grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+.md\:grid-cols-7 { grid-template-columns: repeat(7, 1fr); }
+.gap-4 { gap: 1rem; }
+.gap-6 { gap: 1.5rem; }
+.space-x-6 > * + * { margin-left: 1.5rem; }
+
+/* --- Responsive (simple version) --- */
+@media (min-width: 768px) {
+    .md\:block { display: block !important; }
+    .md\:grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+    .md\:grid-cols-7 { grid-template-columns: repeat(7, 1fr); }
+    .md\:hidden { display: none !important; }
+}
+
+/* --- Boutons jours --- */
+.day-btn {
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    background: #f0fdf4;
+    color: #38a169;
+    border: none;
+    cursor: pointer;
+    margin-right: 0.5rem;
+    transition: background 0.2s, color 0.2s;
+}
+.day-btn.day-active {
+    background: #48bb78;
+    color: #fff;
+}
+
+/* --- Images --- */
+.meal-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+/* --- Utilitaires divers --- */
+.absolute { position: absolute; }
+.relative { position: relative; }
+.top-2 { top: 0.5rem; }
+.right-2 { right: 0.5rem; }
+.rounded-full { border-radius: 9999px; }
+.w-full { width: 100%; }
+.h-40 { height: 10rem; }
+.h-48 { height: 12rem; }
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+.py-1 { padding-top: 0.25rem; padding-bottom: 0.25rem; }
+
+/* --- Pour masquer/afficher les tabs --- */
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* --- Animation fade-in --- */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(30px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+.recette-carousel {
+    width: 100%;
+    display: flex;
+    animation: defilement 30s linear infinite;
+}
+
+.recette-carousel .recipe-card {
+    flex: 0 0 320px;
+    max-width: 320px;
+}
+@keyframes defilement {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+.carousel-viewport {
+    overflow: hidden;
+    width: 100%;
+}
+.recipe-card img {
+    width: 100%;
+    min-height: 160px;
+    object-fit: cover;
+    display: block;
+    background: #f0f0f0;
+}
+#simple-recipe-detail .bg-white {
+  border-radius: 2rem;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+  max-width: 520px;
+  margin: 0 auto;
+}
+/* Modern weekly summary */
+/* Résumé de la semaine : style bouton vert */
+/* Modern weekly summary */
+#weekly-summary {
+    background: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 4px 24px rgba(34,197,94,0.10);
+    padding: 1.5rem 1rem 1rem 1rem;
+    margin-bottom: 2rem;
+    color: #22c55e;
+    border: none; /* <-- plus de bordure verte */
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#summary-grid > div {
+    background: #fff;
+    border-radius: 1.5rem;
+    box-shadow: 0 2px 12px rgba(34,197,94,0.08);
+    padding: 1.2rem 0.7rem 1.5rem 0.7rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.18s, box-shadow 0.18s;
+    border: none; /* <-- plus de bordure verte */
+    position: relative;
+    overflow: hidden;
+}
+
+#summary-grid img {
+    border-radius: 1rem;
+    box-shadow: 0 2px 8px rgba(34,197,94,0.08);
+    margin-bottom: 0.5rem;
+    width: 100%;
+    max-width: 110px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border: none; /* <-- plus de bordure verte */
+    background: #f0fdf4;
+    transition: border-color 0.2s;
+}
+#weekly-summary h4, #weekly-summary .modern-title {
+    color: #22c55e !important;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 0;
+    letter-spacing: 0px; /* Resserre l'écriture */
+    background: none !important;
+    -webkit-text-fill-color: unset !important;
+}
+#weekly-summary h4::after, #weekly-summary .modern-title::after {
+    display: none !important;
+}
+
+#summary-grid > div {
+    background: #fff;
+    border-radius: 1.5rem;
+    box-shadow: 0 2px 12px rgba(34,197,94,0.08);
+    padding: 1.2rem 0.7rem 1.5rem 0.7rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.18s, box-shadow 0.18s;
+    border: none;
+    position: relative;
+    overflow: hidden;
+}
+#summary-grid > div:hover {
+    transform: translateY(-6px) scale(1.04);
+    box-shadow: 0 8px 32px rgba(34,197,94,0.18), 0 1.5px 8px rgba(0,0,0,0.08);
+    background: linear-gradient(120deg, #f0fdf4 0%, #bbf7d0 100%);
+}
+
+#summary-grid h5 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #16a34a;
+    margin-bottom: 0.7rem;
+    letter-spacing: 1px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+#summary-grid img {
+    border-radius: 1rem;
+    box-shadow: 0 2px 8px rgba(34,197,94,0.08);
+    margin-bottom: 0.5rem;
+    width: 100%;
+    max-width: 110px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border: 2px solid #bbf7d0;
+    background: #f0fdf4;
+    transition: border-color 0.2s;
+}
+#summary-grid > div:hover img {
+    border-color: #22c55e;
+}

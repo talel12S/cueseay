@@ -1,0 +1,1523 @@
+[
+  {
+    "nom": "Salade César au poulet",
+    "ingredients": [
+      "poitrine de poulet",
+      "laitue romaine",
+      "parmesan",
+      "œuf",
+      "ail",
+      "pain complet",
+      "moutarde",
+      "jus de citron",
+      "huile d'olive",
+      "sel",
+      "poivre"
+    ],
+    "calories": 450,
+    "description": "Salade César au poulet est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "minute": 37
+  },
+  {
+    "nom": "Pizza Margherita",
+    "ingredients": [
+      "pâte à pizza",
+      "tomates",
+      "mozzarella",
+      "basilic",
+      "huile d'olive",
+      "sel",
+      "poivre"
+    ],
+    "calories": 700,
+    "description": "Pizza Margherita est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://plus.unsplash.com/premium_photo-1679924471066-dd984e92f395?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "minute": 47
+  },
+  {
+    "nom": "Poulet bassolo fania fola",
+    "ingredients": [
+      "poulet",
+      "yaourt",
+      "tomate",
+      "oignon",
+      "ail",
+      "gingembre",
+      "épices tikka massala",
+      "huile",
+      "sel"
+    ],
+    "calories": 600,
+    "description": "Poulet bassolo fania fola est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1289789881/fr/photo/image-des-plaques-bleues-remplies-du-poulet-de-beurre-curry-de-tikka-de-grands-morceaux-de.webp?a=1&b=1&s=612x612&w=0&k=20&c=TNVRyvfwThLUBZYjJ8Pm4J02aNgIN5xjyBKnxGz9WJE="
+  },
+  {
+    "nom": "Burger maison",
+    "ingredients": [
+      "pain à burger",
+      "steak haché",
+      "laitue",
+      "tomate",
+      "fromage cheddar",
+      "oignon",
+      "ketchup",
+      "moutarde"
+    ],
+    "calories": 800,
+    "description": "Burger maison est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVyZ2VyfGVufDB8fDB8fHww",
+    "minute": 55
+  },
+  {
+    "nom": "Pâtes carbonara",
+    "ingredients": [
+      "spaghetti",
+      "lardons",
+      "crème fraîche",
+      "œuf",
+      "parmesan",
+      "poivre",
+      "sel"
+    ],
+    "calories": 650,
+    "description": "Pâtes carbonara est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGF0ZXMlMjBjYXJib25hcmF8ZW58MHx8MHx8fDA%3D",
+    "minute": 53
+  },
+  {
+    "nom": "Riz cantonais",
+    "ingredients": [
+      "riz",
+      "œufs",
+      "jambon",
+      "petits pois",
+      "carottes",
+      "oignon",
+      "sauce soja"
+    ],
+    "calories": 550,
+    "description": "Riz cantonais est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://plus.unsplash.com/premium_photo-1668782623937-56d6d64a7f36?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cml6JTIwY2FudG9uYWlzfGVufDB8fDB8fHww",
+    "minute": 24
+  },
+  {
+    "nom": "Chili con carne",
+    "ingredients": [
+      "viande hachée",
+      "haricots rouges",
+      "tomates",
+      "oignon",
+      "ail",
+      "piment",
+      "épices mexicaines"
+    ],
+    "calories": 650,
+    "description": "Chili con carne est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://images.unsplash.com/photo-1666819632298-fe15dc7d4c34?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpbGklMjBjb24lMjBjYXJuZXxlbnwwfHwwfHx8MA%3D%3D",
+    "minute": 33
+  },
+  {
+    "nom": "Soupe de légumes",
+    "ingredients": [
+      "carottes",
+      "pommes de terre",
+      "poireaux",
+      "courgettes",
+      "bouillon de légumes",
+      "sel",
+      "poivre"
+    ],
+    "calories": 250,
+    "description": "Soupe de légumes est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://plus.unsplash.com/premium_photo-1700673590238-a0e3a3795ae2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c291cGUlMjBsZWd1bWV8ZW58MHx8MHx8fDA%3D",
+    "minute": 26
+  },
+  {
+    "nom": "Tartiflette",
+    "ingredients": [
+      "pommes de terre",
+      "reblochon",
+      "lardons",
+      "oignons",
+      "crème fraîche"
+    ],
+    "calories": 800,
+    "description": "Tartiflette est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1426836232/fr/photo/plat-de-tartiflette-en-gros-plan.webp?a=1&b=1&s=612x612&w=0&k=20&c=TUd85FUWfxORJbzUkdTjWv5AgyT1-eC7UhPripWZTAc=",
+    "minute": 27
+  },
+  {
+    "nom": "Sushi assortis",
+    "ingredients": [
+      "riz à sushi",
+      "poisson cru",
+      "feuille de nori",
+      "avocat",
+      "concombre",
+      "sauce soja"
+    ],
+    "calories": 400,
+    "description": "Sushi assortis est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1616721452/fr/photo/des-anonymes-d%C3%A9jeunent-avec-des-sushis.webp?a=1&b=1&s=612x612&w=0&k=20&c=WT0AHs24gc7NuvhfgWUsT1mcwOcrNE7j92NgcslugZk=",
+    "minute": 35
+  },
+  {
+    "nom": "Paella",
+    "ingredients": [
+      "riz",
+      "crevettes",
+      "moules",
+      "calamars",
+      "petits pois",
+      "poivrons",
+      "safran",
+      "huile d'olive"
+    ],
+    "calories": 750,
+    "description": "Paella est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1314381360/fr/photo/recette-de-nouilles-paella-fidegua-fideua-de-fruits-de-mer-despagne-dans-une-po%C3%AAle-de.webp?a=1&b=1&s=612x612&w=0&k=20&c=qRxJtHqtSTLQ5GykL7sJWWo0-9vxHllwzZlggxyg1iA=",
+    "minute": 50
+  },
+  {
+    "nom": "Gratin dauphinois",
+    "ingredients": [
+      "pommes de terre",
+      "crème fraîche",
+      "ail",
+      "lait",
+      "fromage râpé",
+      "sel",
+      "poivre"
+    ],
+    "calories": 700,
+    "description": "Gratin dauphinois est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1872448214/fr/photo/vegan-potato-au-gratin.webp?a=1&b=1&s=612x612&w=0&k=20&c=ufkokI0qOE6hg5lU_Qq_JECglg0HBfLbhkssW8ChZwE=",
+    "minute": 30
+  },
+  {
+    "nom": "Lasagnes bolognaises",
+    "ingredients": [
+      "pâtes à lasagne",
+      "viande hachée",
+      "tomates",
+      "oignons",
+      "ail",
+      "béchamel",
+      "parmesan"
+    ],
+    "calories": 850,
+    "description": "Lasagnes bolognaises est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1167260774/fr/photo/tradicional-parmigiana-di-melanzane-aubergine-cuite-au-four-italy-sicily-cousine-aubergine.webp?a=1&b=1&s=612x612&w=0&k=20&c=Vs9oO8srpB1VEz6bLupobKmolJsMDeJ_ilxAkzR9CwY=",
+    "minute": 23
+  },
+  {
+    "nom": "Salade grecque",
+    "ingredients": [
+      "tomates",
+      "concombre",
+      "oignon rouge",
+      "feta",
+      "olives noires",
+      "huile d'olive",
+      "origan"
+    ],
+    "calories": 300,
+    "description": "Salade grecque est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1339441669/fr/photo/salade-de-fromage-feta-sur-table-en-bois.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ytp8VX5uTWH6_ImZtT1ONgCdhNKWOAhYYyiqTrmnTC0=",
+    "minute": 24
+  },
+  {
+    "nom": "Couscous royal",
+    "ingredients": [
+      "semoule",
+      "agneau",
+      "merguez",
+      "pois chiches",
+      "carottes",
+      "courgettes",
+      "navets",
+      "épices couscous"
+    ],
+    "calories": 950,
+    "description": "Couscous royal est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y291c2NvdXN8ZW58MHx8MHx8fDA%3D",
+    "minute": 28
+  },
+  {
+    "nom": "Quiche lorraine",
+    "ingredients": [
+      "pâte brisée",
+      "lardons",
+      "œufs",
+      "crème fraîche",
+      "fromage râpé",
+      "sel",
+      "poivre"
+    ],
+    "calories": 700,
+    "description": "Quiche lorraine est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1222755266/fr/photo/quiche-lorraine-dans-un-plateau-de-cuisson-top-down-flat-lay-photo.webp?a=1&b=1&s=612x612&w=0&k=20&c=ixvL9X7eAES26oRWDETkAbR3jcMEt1DJpZ9c8jtXOfY=",
+    "minute": 28
+  },
+  {
+    "nom": "Brochettes de poulet au curry",
+    "ingredients": [
+      "poulet",
+      "yaourt",
+      "curry",
+      "huile",
+      "citron vert"
+    ],
+    "calories": 550,
+    "description": "Brochettes de poulet au curry est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/178510336/fr/photo/indian-kebabs-au-poulet-tikka.webp?a=1&b=1&s=612x612&w=0&k=20&c=e9l50jF7bKmGbYmPeUG-2yR1h5vos5Y4UoiA9MvLES8=",
+    "minute": 36
+  },
+  {
+    "nom": "Poulet basquaise",
+    "ingredients": [
+      "poulet",
+      "poivrons",
+      "oignons",
+      "tomates",
+      "ail",
+      "huile d'olive",
+      "piment d'Espelette"
+    ],
+    "calories": 600,
+    "description": "Poulet basquaise est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1342289993/fr/photo/savoureux-poulet-basque-maison-brais%C3%A9-avec-des-l%C3%A9gumes-en-gros-plan-dans-la-po%C3%AAle-horizontal.webp?a=1&b=1&s=612x612&w=0&k=20&c=t-wkBp8aP8DkEpFk5EImw3q5_mSQqJomvMqGRftTJMA=",
+    "minute": 25
+  },
+  {
+    "nom": "Bœuf bourguignon",
+    "ingredients": [
+      "bœuf",
+      "carottes",
+      "oignons",
+      "vin rouge",
+      "bouquet garni",
+      "ail"
+    ],
+    "calories": 850,
+    "description": "Bœuf bourguignon est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1058029026/fr/photo/bourguignon-de-boeuf.webp?a=1&b=1&s=612x612&w=0&k=20&c=sfbuG05ynWk1DaEDYa_TJPvc3W3IPHtAEnjgiJipTYc=",
+    "minute": 46
+  },
+  {
+    "nom": "Boulettes de viande sauce tomate",
+    "ingredients": [
+      "viande hachée",
+      "œufs",
+      "ail",
+      "persil",
+      "chapelure",
+      "tomates",
+      "oignons",
+      "huile d'olive"
+    ],
+    "calories": 700,
+    "description": "Boulettes de viande sauce tomate est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1656784615/fr/photo/boulettes-de-viande-%C3%A0-la-sauce-tomate-faites-maison-dans-une-po%C3%AAle-rustique-en-fonte-sur-bois.webp?a=1&b=1&s=612x612&w=0&k=20&c=cQTtzxZfqnAYMewUncKBG7_vLZVGSXxgrT99uSaS5_g=",
+    "minute": 32
+  },
+  {
+    "nom": "Gratin de pommes de terre",
+    "ingredients": [
+      "pommes de terre",
+      "crème fraîche",
+      "fromage râpé",
+      "ail",
+      "sel",
+      "poivre"
+    ],
+    "calories": 700,
+    "description": "Gratin de pommes de terre est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1401921629/fr/photo/pommes-de-terre-au-four-app%C3%A9tissantes-avec-fromage-croquant-dans-un-plat-en-c%C3%A9ramique.webp?a=1&b=1&s=612x612&w=0&k=20&c=c2MqV3R7_kLjReFJI6rgS8LPUtj9XRMND4q4HlWVDgs=",
+    "minute": 50
+  },
+  {
+    "nom": "Soupe de courge",
+    "ingredients": [
+      "courge",
+      "oignon",
+      "bouillon",
+      "crème"
+    ],
+    "calories": 300,
+    "description": "Soupe de courge est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/671723434/fr/photo/soupe-de-courgette-%C3%A0-la-cr%C3%A8me.webp?a=1&b=1&s=612x612&w=0&k=20&c=mYpOR5c6PeqUR_vnW5RxAO0yXnmH2hZKrym-d5mUpJA=",
+    "minute": 36
+  },
+  {
+    "nom": "Crêpes jambon-fromage",
+    "ingredients": [
+      "farine",
+      "œufs",
+      "lait",
+      "jambon",
+      "fromage"
+    ],
+    "calories": 400,
+    "description": "Crêpes jambon-fromage est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/480221482/fr/photo/cr%C3%AApes-garnies-avec-jambon-et-fromage-horizontal-macro.webp?a=1&b=1&s=612x612&w=0&k=20&c=YTgW2eKIKQOAVqZwPZzpe_v86FKaBK8s9jHFY4LzWHk=",
+    "minute": 21
+  },
+  {
+    "nom": "Pizza hawaïenne",
+    "ingredients": [
+      "pâte à pizza",
+      "jambon",
+      "ananas",
+      "mozzarella",
+      "sauce tomate"
+    ],
+    "calories": 700,
+    "description": "Pizza hawaïenne est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/182873678/fr/photo/pizza-au-jambon-et-%C3%A0-lananas-sur-une-assiette.webp?a=1&b=1&s=612x612&w=0&k=20&c=P_Mv_Txq6365p9cJ9weGj4KInmuUn65ogtebvMkqNtg=",
+    "minute": 55
+  },
+  {
+    "nom": "Poulet au curry vert",
+    "ingredients": [
+      "poulet",
+      "lait de coco",
+      "pâte de curry vert",
+      "aubergines",
+      "basilic"
+    ],
+    "calories": 700,
+    "description": "Poulet au curry vert est un classique incontournable préparé avec des ingrédients frais et savoureux.",
+    "image": "https://media.istockphoto.com/id/1271879367/fr/photo/c%C3%A9l%C3%A8bre-de-renomm%C3%A9e-internationale-thai-curry-de-noix-de-coco-vert-gaeng-keow-wan-gai-avec-du.webp?a=1&b=1&s=612x612&w=0&k=20&c=Rjo1Xv_tgni_DXeXty8UKMNMy-WszL9mwooNg7VMTvM=",
+    "minute": 44
+  },
+  {
+    "nom": "Burgers de lentilles variation 101",
+    "ingredients": [
+      "agneau",
+      "abricots",
+      "oignons",
+      "épices",
+      "huile d'olive",
+      "amandes"
+    ],
+    "calories": 544,
+    "image": "https://plus.unsplash.com/premium_photo-1664648063790-ef4670e43d59?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVyZ2VyJTIwZGUlMjBsZW50aWxsZSUyMGRlJTIwdmFyaWF0aW9ufGVufDB8fDB8fHww",
+    "description": "Un plat savoureux : Burgers de lentilles préparé avec soin et des ingrédients frais.",
+    "minute": 33
+  },
+  {
+    "nom": "Salade de quinoa variation 102",
+    "ingredients": [
+      "thon",
+      "riz vinaigré",
+      "avocat",
+      "edamame",
+      "sésame",
+      "sauce soja"
+    ],
+    "calories": 760,
+    "image": "https://media.istockphoto.com/id/663974840/fr/photo/salade-de-quinoa-avec-chou-fleur-r%C3%B4ti-butternut-squash.webp?a=1&b=1&s=612x612&w=0&k=20&c=uqhuNVpQfBSMq5hX1HkKMO59KFpUfE_kBWbk5dpeYv8=",
+    "description": "Un plat savoureux : Salade de quinoa préparé avec soin et des ingrédients frais.",
+    "minute": 53
+  },
+  {
+    "nom": "Tarte fine aux légumes variation 103",
+    "ingredients": [
+      "tofu",
+      "lait de coco",
+      "curry rouge",
+      "légumes variés",
+      "basilic"
+    ],
+    "calories": 680,
+    "image": "https://media.istockphoto.com/id/1611509542/fr/photo/tarte-aux-courgettes-et-fromage-feta.webp?a=1&b=1&s=612x612&w=0&k=20&c=lglquXY3iJXEtkZIJHto8kqnAer3vMkDIExqvXyHiSg=",
+    "description": "Un plat savoureux : Tarte fine aux légumes préparé avec soin et des ingrédients frais.",
+    "minute": 40
+  },
+  {
+    "nom": "Maki avocat-concombre variation 104",
+    "ingredients": [
+      "riz",
+      "bœuf haché",
+      "carottes",
+      "œuf",
+      "épinards",
+      "sauce gochujang"
+    ],
+    "calories": 689,
+    "image": "https://media.istockphoto.com/id/2190809050/fr/photo/roll-with-cucumber-on-dark-background-sushi-menu-japanese-food.webp?a=1&b=1&s=612x612&w=0&k=20&c=vCG9MHaqDcSPzh9BiA5pR3D0NCnstpKjg4aoMFrE68M=",
+    "description": "Un plat savoureux : Maki avocat-concombre préparé avec soin et des ingrédients frais.",
+    "minute": 51
+  },
+  {
+    "nom": "Gratin de courgettes variation 105",
+    "ingredients": [
+      "miso",
+      "algues",
+      "tofu",
+      "ciboulette",
+      "bouillon"
+    ],
+    "calories": 705,
+    "image": "https://media.istockphoto.com/id/1275839541/fr/photo/casserole-aux-courgettes-et-fromage.webp?a=1&b=1&s=612x612&w=0&k=20&c=QIupVPx3PxaAIp5Q41qHyZwK2jJRgNaV7eTtLt8auYo=",
+    "description": "Un plat savoureux : Gratin de courgettes préparé avec soin et des ingrédients frais.",
+    "minute": 26
+  },
+  {
+    "nom": "Risotto aux champignons variation 106",
+    "ingredients": [
+      "poisson",
+      "tortillas",
+      "chou",
+      "salsa",
+      "citron vert"
+    ],
+    "calories": 430,
+    "image": "https://media.istockphoto.com/id/2162389396/fr/photo/risotto-aux-champignons-bruns-dans-un-bol-sur-une-planche-%C3%A0-d%C3%A9couper-en-bois-cuisine.webp?a=1&b=1&s=612x612&w=0&k=20&c=AKLgIOou8mKo22d35tylqvI9TVJzOEzm0Xxs_A8sJjE=",
+    "description": "Un plat savoureux : Risotto aux champignons préparé avec soin et des ingrédients frais.",
+    "minute": 18
+  },
+  {
+    "nom": "Rôti de porc à la moutarde variation 107",
+    "ingredients": [
+      "baguette",
+      "porc",
+      "carottes",
+      "concombre",
+      "coriandre",
+      "pâté",
+      "sauce soja"
+    ],
+    "calories": 434,
+    "image": "https://media.istockphoto.com/id/2171400214/fr/photo/pr%C3%A9paration-du-filet-de-porc-farci-%C3%A0-la-m%C3%A9diterran%C3%A9enne.webp?a=1&b=1&s=612x612&w=0&k=20&c=1k1bIh83m_UVvjchnuIfKOSaYZtWgz_xCmsMwaFseSE=",
+    "description": "Un plat savoureux : Rôti de porc à la moutarde préparé avec soin et des ingrédients frais.",
+    "minute": 57
+  },
+  {
+    "nom": "Tartines au fromage de chèvre variation 108",
+    "ingredients": [
+      "frites",
+      "fromage en grains",
+      "sauce brune"
+    ],
+    "calories": 693,
+    "image": "https://media.istockphoto.com/id/680225388/fr/photo/ap%C3%A9ritif-bruschetta-aux-poires-miel-noix-et-fromage-cottage-sur-tableau-blanc.webp?a=1&b=1&s=612x612&w=0&k=20&c=4WpFo9Zb1HSqKA4tQaYuobEaoqFNlaOvE4VT84UqMBg=",
+    "description": "Un plat savoureux : Tartines au fromage de chèvre préparé avec soin et des ingrédients frais.",
+    "minute": 59
+  },
+  {
+    "nom": "Bœuf stroganoff variation 109",
+    "ingredients": [
+      "poulet",
+      "riz basmati",
+      "épices",
+      "yaourt",
+      "oignon"
+    ],
+    "calories": 741,
+    "image": "https://media.istockphoto.com/id/119996442/fr/photo/boeuf-stroganoff.webp?a=1&b=1&s=612x612&w=0&k=20&c=9014qhV5DYvtOTdH9ynYujnMc8E_qWKgNXLz2MtKOMI=",
+    "description": "Un plat savoureux : Bœuf stroganoff préparé avec soin et des ingrédients frais.",
+    "minute": 16
+  },
+  {
+    "nom": "Ceviche de dorade variation 110",
+    "ingredients": [
+      "gnocchis",
+      "pesto",
+      "parmesan"
+    ],
+    "calories": 542,
+    "image": "https://media.istockphoto.com/id/1330080684/fr/photo/ceviche-de-poisson-blanc.webp?a=1&b=1&s=612x612&w=0&k=20&c=8ikrdJir9ex9tKpqll6LGG47JkVws8pQ2_mpyPwqWkI=",
+    "description": "Un plat savoureux : Ceviche de dorade préparé avec soin et des ingrédients frais.",
+    "minute": 29
+  },
+  {
+    "nom": "Poulet yakitori variation 111",
+    "ingredients": [
+      "agneau",
+      "abricots",
+      "oignons",
+      "épices",
+      "huile d'olive",
+      "amandes"
+    ],
+    "calories": 636,
+    "image": "https://media.istockphoto.com/id/1154425220/fr/photo/brochettes-de-poulet-japonais-yakitori.webp?a=1&b=1&s=612x612&w=0&k=20&c=C9mMLT8U7CmtGWfN2vfOCQXNT6nekVavJvZsB11bhzs=",
+    "description": "Un plat savoureux : Poulet yakitori préparé avec soin et des ingrédients frais.",
+    "minute": 29
+  },
+  {
+    "nom": "Riz au lait coco variation 112",
+    "ingredients": [
+      "thon",
+      "riz vinaigré",
+      "avocat",
+      "edamame",
+      "sésame",
+      "sauce soja"
+    ],
+    "calories": 416,
+    "image": "https://media.istockphoto.com/id/943782526/fr/photo/g%C3%A2teau-de-riz-%C3%A0-la-cannelle.webp?a=1&b=1&s=612x612&w=0&k=20&c=yR1GDpRoUm3QXtRbHl6DD5NIsQYXNOBTkBYjvs7VnMw=",
+    "description": "Un plat savoureux : Riz au lait coco préparé avec soin et des ingrédients frais.",
+    "minute": 23
+  },
+  {
+    "nom": "Salade de pastèque et feta variation 113",
+    "ingredients": [
+      "tofu",
+      "lait de coco",
+      "curry rouge",
+      "légumes variés",
+      "basilic"
+    ],
+    "calories": 710,
+    "image": "https://media.istockphoto.com/id/2083953578/fr/photo/watermelon-salad.webp?a=1&b=1&s=612x612&w=0&k=20&c=qkyDI_oXT1RKaQPxKOKLBi4HfJJxR4UuiQ8lr-GjwtA=",
+    "description": "Un plat savoureux : Salade de pastèque et feta préparé avec soin et des ingrédients frais.",
+    "minute": 41
+  },
+  {
+    "nom": "Croquettes de poisson variation 114",
+    "ingredients": [
+      "riz",
+      "bœuf haché",
+      "carottes",
+      "œuf",
+      "épinards",
+      "sauce gochujang"
+    ],
+    "calories": 722,
+    "image": "https://media.istockphoto.com/id/1368959245/fr/photo/g%C3%A2teaux-au-thon-croustillants.webp?a=1&b=1&s=612x612&w=0&k=20&c=JKqwlpmOuU9XBa--oc2QR_FHxzqlfj4L6vWDarhMzpk=",
+    "description": "Un plat savoureux : Croquettes de poisson préparé avec soin et des ingrédients frais.",
+    "minute": 48
+  },
+  {
+    "nom": "Gravlax de saumon variation 115",
+    "ingredients": [
+      "miso",
+      "algues",
+      "tofu",
+      "ciboulette",
+      "bouillon"
+    ],
+    "calories": 790,
+    "image": "https://media.istockphoto.com/id/1296736705/fr/photo/tranches-de-saumon-fum%C3%A9-avec-c%C3%A2pres-et-aneth.webp?a=1&b=1&s=612x612&w=0&k=20&c=TiOhKNJkcEbUhiAIb4A_TmulmkByg_wQD5oCI1L8Tik=",
+    "description": "Un plat savoureux : Gravlax de saumon préparé avec soin et des ingrédients frais.",
+    "minute": 35
+  },
+  {
+    "nom": "Chili végétarien variation 116",
+    "ingredients": [
+      "poisson",
+      "tortillas",
+      "chou",
+      "salsa",
+      "citron vert"
+    ],
+    "calories": 883,
+    "image": "https://media.istockphoto.com/id/1253912263/fr/photo/healthy-vegan-chili-con-carne.webp?a=1&b=1&s=612x612&w=0&k=20&c=CEJsxZ2UsjVuBy-8hDmwthPFouCue74xXXcOpo4TYJQ=",
+    "description": "Un plat savoureux : Chili végétarien préparé avec soin et des ingrédients frais.",
+    "minute": 49
+  },
+  {
+    "nom": "Frittata aux épinards variation 117",
+    "ingredients": [
+      "baguette",
+      "porc",
+      "carottes",
+      "concombre",
+      "coriandre",
+      "pâté",
+      "sauce soja"
+    ],
+    "calories": 768,
+    "image": "https://media.istockphoto.com/id/547425762/fr/photo/%C3%A9pinards-faits-maison-et-feta-fritatta.webp?a=1&b=1&s=612x612&w=0&k=20&c=i1ge6kdXdPyWghexJPm71THUq9CZYXEvFgRAaO1xJsQ=",
+    "description": "Un plat savoureux : Frittata aux épinards préparé avec soin et des ingrédients frais.",
+    "minute": 42
+  },
+  {
+    "nom": "Calamars grillés variation 118",
+    "ingredients": [
+      "frites",
+      "fromage en grains",
+      "sauce brune"
+    ],
+    "calories": 640,
+    "image": "https://media.istockphoto.com/id/863505818/fr/photo/anneaux-de-calamars-et-de-crevettes-cuites-sur-pan-de-fonte-de-fer.webp?a=1&b=1&s=612x612&w=0&k=20&c=ksjn79xVY8zbMn3ix7-JbPa4FURWadNkqPrnJMLWLN8=",
+    "description": "Un plat savoureux : Calamars grillés préparé avec soin et des ingrédients frais.",
+    "minute": 27
+  },
+  {
+    "nom": "Boulettes végétales à la sauce tomate variation 119",
+    "ingredients": [
+      "poulet",
+      "riz basmati",
+      "épices",
+      "yaourt",
+      "oignon"
+    ],
+    "calories": 708,
+    "image": "https://media.istockphoto.com/id/1498715993/fr/photo/boulettes-de-viande-avec-sauce-tomate-dans-un-bol.webp?a=1&b=1&s=612x612&w=0&k=20&c=FfFIIMpdvxyGUICYRK59TAf-Rm5LVY5YE0pJqxug0Yk=",
+    "description": "Un plat savoureux : Boulettes végétales à la sauce tomate préparé avec soin et des ingrédients frais.",
+    "minute": 36
+  },
+  {
+    "nom": "Pâtes au citron et basilic variation 120",
+    "ingredients": [
+      "gnocchis",
+      "pesto",
+      "parmesan"
+    ],
+    "calories": 578,
+    "image": "https://media.istockphoto.com/id/1508768679/fr/photo/p%C3%A2tes-aux-asperges-et-aux-pois-sur-fond-rustique.webp?a=1&b=1&s=612x612&w=0&k=20&c=AwUhwI49ZY8pi7ahSwlEam3XxYaafB50masdqpKLi80=",
+    "description": "Un plat savoureux : Pâtes au citron et basilic préparé avec soin et des ingrédients frais.",
+    "minute": 51
+  },
+  {
+    "nom": "Wok de crevettes variation 121",
+    "ingredients": [
+      "agneau",
+      "abricots",
+      "oignons",
+      "épices",
+      "huile d'olive",
+      "amandes"
+    ],
+    "calories": 888,
+    "image": "https://media.istockphoto.com/id/1178916079/fr/photo/m%C3%A9langer-les-nouilles-avec-les-l%C3%A9gumes-et-les-crevettes-dans-un-bol-noir-fond-dardoise-vue-du.webp?a=1&b=1&s=612x612&w=0&k=20&c=h3XxVQA1DuR5fbFGb6-kM94bdtIzgsZDOoVGW0fXEDI=",
+    "description": "Un plat savoureux : Wok de crevettes préparé avec soin et des ingrédients frais.",
+    "minute": 34
+  },
+  {
+    "nom": "Soupe froide de concombre variation 122",
+    "ingredients": [
+      "thon",
+      "riz vinaigré",
+      "avocat",
+      "edamame",
+      "sésame",
+      "sauce soja"
+    ],
+    "calories": 634,
+    "image": "https://media.istockphoto.com/id/1212794128/fr/photo/soupe-verte-d%C3%A9pinards-froids-et-de-concombre-mise-au-point-s%C3%A9lective.webp?a=1&b=1&s=612x612&w=0&k=20&c=5mc992bnVDopRVpKRGKNAksuxP1J-5AEIhOvmcfOpAo=",
+    "description": "Un plat savoureux : Soupe froide de concombre préparé avec soin et des ingrédients frais.",
+    "minute": 58
+  },
+  {
+    "nom": "Pains naan farcis variation 123",
+    "ingredients": [
+      "tofu",
+      "lait de coco",
+      "curry rouge",
+      "légumes variés",
+      "basilic"
+    ],
+    "calories": 829,
+    "image": "https://media.istockphoto.com/id/973082434/fr/photo/tir%C3%A9-de-viande-de-poulet-et-de-l%C3%A9gumes-farcis-msemens-ou-rghaif-sur-une-plaque-noire.webp?a=1&b=1&s=612x612&w=0&k=20&c=_TQX31vG0u5shihBYdok79FIVvlwHAYJ3KzGILJ7unw=",
+    "description": "Un plat savoureux : Pains naan farcis préparé avec soin et des ingrédients frais.",
+    "minute": 41
+  },
+  {
+    "nom": "Lentilles au curry variation 124",
+    "ingredients": [
+      "riz",
+      "bœuf haché",
+      "carottes",
+      "œuf",
+      "épinards",
+      "sauce gochujang"
+    ],
+    "calories": 585,
+    "image": "https://media.istockphoto.com/id/1130228942/fr/photo/dal-indien-lentilles-soupe-indienne-traditionnelle-dhal-indien-%C3%A9pic%C3%A9-curry-dans-le-bol-%C3%A9pices.webp?a=1&b=1&s=612x612&w=0&k=20&c=sgooTsj8hrxnpZEiKNUwk76PIBqL2I6eydyO42Cg44A=",
+    "description": "Un plat savoureux : Lentilles au curry préparé avec soin et des ingrédients frais.",
+    "minute": 30
+  },
+  {
+    "nom": "Tajine de légumes variation 125",
+    "ingredients": [
+      "miso",
+      "algues",
+      "tofu",
+      "ciboulette",
+      "bouillon"
+    ],
+    "calories": 733,
+    "image": "https://media.istockphoto.com/id/1219875134/fr/photo/tagine-cuscus-aux-calamars-et-l%C3%A9gumes.webp?a=1&b=1&s=612x612&w=0&k=20&c=Yl7WnYNd4nEeaDEDRtuqpw69I8yYEPWH0fHLP-GA0vw=e",
+    "description": "Un plat savoureux : Tajine de légumes préparé avec soin et des ingrédients frais.",
+    "minute": 28
+  },
+  {
+    "nom": "Riz sauté à l'ananas variation 126",
+    "ingredients": [
+      "poisson",
+      "tortillas",
+      "chou",
+      "salsa",
+      "citron vert"
+    ],
+    "calories": 454,
+    "image": "https://media.istockphoto.com/id/1500641777/fr/photo/curry-de-poulet-du-nord-de-linde.webp?a=1&b=1&s=612x612&w=0&k=20&c=MJaBysrxYoTFkuIkKxXyTr-WnWjGqw9pKYKqoBLcV3A=",
+    "description": "Un plat savoureux : Riz sauté à l'ananas préparé avec soin et des ingrédients frais.",
+    "minute": 56
+  },
+  {
+    "nom": "Gratin de patate douce variation 127",
+    "ingredients": [
+      "baguette",
+      "porc",
+      "carottes",
+      "concombre",
+      "coriandre",
+      "pâté",
+      "sauce soja"
+    ],
+    "calories": 402,
+    "image": "https://media.istockphoto.com/id/1287109067/fr/photo/casserole-de-patate-douce-aux-pacanes-et-guimauves.webp?a=1&b=1&s=612x612&w=0&k=20&c=hSWCtJ7JmVQHOpP2O4_z13tpYNo6YgfyCAdvzII0NrA=",
+    "description": "Un plat savoureux : Gratin de patate douce préparé avec soin et des ingrédients frais.",
+    "minute": 48
+  },
+  {
+    "nom": "Raviolis chinois vapeur variation 128",
+    "ingredients": [
+      "frites",
+      "fromage en grains",
+      "sauce brune"
+    ],
+    "calories": 869,
+    "image": "https://images.unsplash.com/photo-1748248078354-5b085351714f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Un plat savoureux : Raviolis chinois vapeur préparé avec soin et des ingrédients frais.",
+    "minute": 23
+  },
+  {
+    "nom": "Aubergines farcies variation 129",
+    "ingredients": [
+      "poulet",
+      "riz basmati",
+      "épices",
+      "yaourt",
+      "oignon"
+    ],
+    "calories": 698,
+    "image": "https://media.istockphoto.com/id/1366634591/fr/photo/aubergines-farcies-%C3%A0-la-viande-hach%C3%A9e-recette-italienne-aubergine-parmigiana-ou-aubergine.webp?a=1&b=1&s=612x612&w=0&k=20&c=lupMkX9GvEKiHSl053YErp5IIHiHUAlFWa-Y2PEWLGk=",
+    "description": "Un plat savoureux : Aubergines farcies préparé avec soin et des ingrédients frais.",
+    "minute": 52
+  },
+  {
+    "nom": "Pizza aux artichauts variation 130",
+    "ingredients": [
+      "gnocchis",
+      "pesto",
+      "parmesan"
+    ],
+    "calories": 508,
+    "image": "https://media.istockphoto.com/id/1422974815/fr/photo/pizza-avec-artichauts-et-%C3%A9pinards-vue-de-dessus.webp?a=1&b=1&s=612x612&w=0&k=20&c=7qN0VewUy2bIu6gtvUkdZFFH4dcgpczTEYf48QAsrTE=",
+    "description": "Un plat savoureux : Pizza aux artichauts préparé avec soin et des ingrédients frais.",
+    "minute": 60
+  },
+  {
+    "nom": "Croque-monsieur variation 131",
+    "ingredients": [
+      "agneau",
+      "abricots",
+      "oignons",
+      "épices",
+      "huile d'olive",
+      "amandes"
+    ],
+    "calories": 823,
+    "image": "https://media.istockphoto.com/id/1363956556/fr/photo/croque-monsieur-sandwich-grill%C3%A9-avec-fromage-jambon-gruy%C3%A8re-et-sauce-b%C3%A9chamel-fond-sombre-vue.webp?a=1&b=1&s=612x612&w=0&k=20&c=dcuOCDKRSrZ4iliGDB5s-Qxf_V2DSZ9hKN28f-dqX6M=",
+    "description": "Un plat savoureux : Croque-monsieur préparé avec soin et des ingrédients frais.",
+    "minute": 20
+  },
+  {
+    "nom": "Côtelettes d'agneau aux herbes variation 132",
+    "ingredients": [
+      "thon",
+      "riz vinaigré",
+      "avocat",
+      "edamame",
+      "sésame",
+      "sauce soja"
+    ],
+    "calories": 887,
+    "image": "https://images.unsplash.com/photo-1692106914421-e04e1066bd62?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y290ZWxsZXRlJTIwZCdhZ25lYXV8ZW58MHx8MHx8fDA%3D",
+    "description": "Un plat savoureux : Côtelettes d'agneau aux herbes préparé avec soin et des ingrédients frais.",
+    "minute": 21
+  },
+  {
+    "nom": "Gaufres salées au fromage variation 133",
+    "ingredients": [
+      "tofu",
+      "lait de coco",
+      "curry rouge",
+      "légumes variés",
+      "basilic"
+    ],
+    "calories": 783,
+    "image": "https://images.unsplash.com/photo-1740125492753-28394dac8165?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2F1ZnJlcyUyMHNhbCVDMyVBOWVzfGVufDB8fDB8fHww",
+    "description": "Un plat savoureux : Gaufres salées au fromage préparé avec soin et des ingrédients frais.",
+    "minute": 20
+  },
+  {
+    "nom": "Salade de pois chiches variation 134",
+    "ingredients": [
+      "riz",
+      "bœuf haché",
+      "carottes",
+      "œuf",
+      "épinards",
+      "sauce gochujang"
+    ],
+    "calories": 668,
+    "image": "https://images.unsplash.com/photo-1688807462845-a06bc0abcadb?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2FsYWRlJTIwZGUlMjBwb2lzJTIwY2hpY2hlc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Un plat savoureux : Salade de pois chiches préparé avec soin et des ingrédients frais.",
+    "minute": 24
+  },
+  {
+    "nom": "Ragoût de pois cassés variation 135",
+    "ingredients": [
+      "miso",
+      "algues",
+      "tofu",
+      "ciboulette",
+      "bouillon"
+    ],
+    "calories": 541,
+    "image": "https://media.istockphoto.com/id/1498390591/fr/photo/soupe-%C3%A0-la-cr%C3%A8me-de-pois-verts-frais-avec-des-toasts.webp?a=1&b=1&s=612x612&w=0&k=20&c=y9_vB66sFLf5ctDANTmpQkp-9EAZrFdCq9UqVMAa4CE=",
+    "description": "Un plat savoureux : Ragoût de pois cassés préparé avec soin et des ingrédients frais.",
+    "minute": 34
+  },
+  {
+    "nom": "Nuggets maison variation 136",
+    "ingredients": [
+      "poisson",
+      "tortillas",
+      "chou",
+      "salsa",
+      "citron vert"
+    ],
+    "calories": 805,
+    "image": "https://media.istockphoto.com/id/2031469708/fr/photo/sc%C3%A8ne-de-cuisson-de-poulet-frit-aliments-frits.webp?a=1&b=1&s=612x612&w=0&k=20&c=7coIqsBM6V84R8qZA1xGpbYSgrwL9y8asF60NEXwmyU=",
+    "description": "Un plat savoureux : Nuggets maison préparé avec soin et des ingrédients frais.",
+    "minute": 52
+  },
+  {
+    "nom": "Wrap au thon variation 137",
+    "ingredients": [
+      "baguette",
+      "porc",
+      "carottes",
+      "concombre",
+      "coriandre",
+      "pâté",
+      "sauce soja"
+    ],
+    "calories": 577,
+    "image": "https://media.istockphoto.com/id/131920457/fr/photo/deux-fondant-au-thon-enveloppement-sur-une-plaque-blanche.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ha3c2hBVh9Zvo9d4i5JpkGfaxi9CdRfuI46EdO_Ttnc=",
+    "description": "Un plat savoureux : Wrap au thon préparé avec soin et des ingrédients frais.",
+    "minute": 40
+  },
+  {
+    "nom": "Feuilleté aux épinards variation 138",
+    "ingredients": [
+      "frites",
+      "fromage en grains",
+      "sauce brune"
+    ],
+    "calories": 878,
+    "image": "https://media.istockphoto.com/id/517220997/fr/photo/maison-quiche-aux-%C3%A9pinards.webp?a=1&b=1&s=612x612&w=0&k=20&c=o94AZ8Jc02V8R5-TuyNFUdeuCnHzby_di-ahlD6UeDY=",
+    "description": "Un plat savoureux : Feuilleté aux épinards préparé avec soin et des ingrédients frais.",
+    "minute": 34
+  },
+  {
+    "nom": "Tourte au poulet variation 139",
+    "ingredients": [
+      "poulet",
+      "riz basmati",
+      "épices",
+      "yaourt",
+      "oignon"
+    ],
+    "calories": 624,
+    "image": "https://media.istockphoto.com/id/504523710/fr/photo/morceaux-de-poulet-rustique-pie-gros-plan-sur-la-table-horizontal-vers-le-haut.webp?a=1&b=1&s=612x612&w=0&k=20&c=ES3neZh_L4XWXuRbxLkU8NVIAGwGVCJ2lMEh2OOGIsw=",
+    "description": "Un plat savoureux : Tourte au poulet préparé avec soin et des ingrédients frais.",
+    "minute": 48
+  },
+  {
+    "nom": "Soupe de betterave variation 140",
+    "ingredients": [
+      "gnocchis",
+      "pesto",
+      "parmesan"
+    ],
+    "calories": 786,
+    "image": "https://media.istockphoto.com/id/1134115502/fr/photo/soupe-de-betterave-fra%C3%AEche-faite-avec-tranches-de-pain-et-citron-servi-dans-la-plaque-close-up.webp?a=1&b=1&s=612x612&w=0&k=20&c=ICsMo4oAWM03ICuXzaTlXbkE39t0v6-vuFPUGfCoy-Q=",
+    "description": "Un plat savoureux : Soupe de betterave préparé avec soin et des ingrédients frais.",
+    "minute": 19
+  },
+  {
+    "nom": "Tarte au saumon variation 141",
+    "ingredients": [
+      "agneau",
+      "abricots",
+      "oignons",
+      "épices",
+      "huile d'olive",
+      "amandes"
+    ],
+    "calories": 603,
+    "image": "https://media.istockphoto.com/id/175502568/fr/photo/saumon-la-quiche.webp?a=1&b=1&s=612x612&w=0&k=20&c=lrRz4zD2hBwRUI-EcemwS8t40TNjvWBVYJU6OzaNPnE=",
+    "description": "Un plat savoureux : Tarte au saumon préparé avec soin et des ingrédients frais.",
+    "minute": 30
+  },
+  {
+    "nom": "Tian de légumes variation 142",
+    "ingredients": [
+      "thon",
+      "riz vinaigré",
+      "avocat",
+      "edamame",
+      "sésame",
+      "sauce soja"
+    ],
+    "calories": 536,
+    "image": "https://media.istockphoto.com/id/1224165804/fr/photo/tian-casserole-proven%C3%A7ale-avec-une-vari%C3%A9t%C3%A9-de-l%C3%A9gumes-un-plat-v%C3%A9g%C3%A9tarien-traditionnel.webp?a=1&b=1&s=612x612&w=0&k=20&c=NC3vy51DK0E6H6IhkL6DLIug7FAsD5H2BXgkOlCEYbA=",
+    "description": "Un plat savoureux : Tian de légumes préparé avec soin et des ingrédients frais.",
+    "minute": 32
+  },
+  {
+    "nom": "Mijoté de bœuf aux carottes variation 143",
+    "ingredients": [
+      "tofu",
+      "lait de coco",
+      "curry rouge",
+      "légumes variés",
+      "basilic"
+    ],
+    "calories": 559,
+    "image": "https://media.istockphoto.com/id/1079756820/fr/photo/rago%C3%BBt-de-b%C5%93uf-avec-sauce-tomate-et-cr%C3%A8me.webp?a=1&b=1&s=612x612&w=0&k=20&c=Y_iZ78B5vfOdXp9vSKrnEqtNhVwBfJs6MDdIaaP4q0I=",
+    "description": "Un plat savoureux : Mijoté de bœuf aux carottes préparé avec soin et des ingrédients frais.",
+    "minute": 46
+  },
+  {
+    "nom": "Salade d’épeautre variation 144",
+    "ingredients": [
+      "riz",
+      "bœuf haché",
+      "carottes",
+      "œuf",
+      "épinards",
+      "sauce gochujang"
+    ],
+    "calories": 638,
+    "image": "https://media.istockphoto.com/id/1166485619/fr/photo/salade-de-tomates-farro-saines-maison.webp?a=1&b=1&s=612x612&w=0&k=20&c=5M9AWG5SIYxo76LgiN4W0rlszg2vQbR68I7PfAleBYI=",
+    "description": "Un plat savoureux : Salade d’épeautre préparé avec soin et des ingrédients frais.",
+    "minute": 21
+  },
+  {
+    "nom": "Curry de crevettes variation 145",
+    "ingredients": [
+      "miso",
+      "algues",
+      "tofu",
+      "ciboulette",
+      "bouillon"
+    ],
+    "calories": 710,
+    "image": "https://media.istockphoto.com/id/1253232810/fr/photo/biryani-de-nourriture-indienne-avec-riz-basmati-et-crevettes.webp?a=1&b=1&s=612x612&w=0&k=20&c=qlJa20n822D3qd3KOeFwqfAV4DK_iflxCGFJtNMy4PA=",
+    "description": "Un plat savoureux : Curry de crevettes préparé avec soin et des ingrédients frais.",
+    "minute": 23
+  },
+  {
+    "nom": "Pizza blanche aux champignons variation 146",
+    "ingredients": [
+      "poisson",
+      "tortillas",
+      "chou",
+      "salsa",
+      "citron vert"
+    ],
+    "calories": 598,
+    "image": "https://media.istockphoto.com/id/122291756/fr/photo/pizza-blanche-%C3%A0-la-bolognaise.webp?a=1&b=1&s=612x612&w=0&k=20&c=1wlWBva3WQPanL-g9RVg_TJ-KirJONaGjmwk-OPPsUw=",
+    "description": "Un plat savoureux : Pizza blanche aux champignons préparé avec soin et des ingrédients frais.",
+    "minute": 29
+  },
+  {
+    "nom": "Poêlée de légumes d’été variation 147",
+    "ingredients": [
+      "baguette",
+      "porc",
+      "carottes",
+      "concombre",
+      "coriandre",
+      "pâté",
+      "sauce soja"
+    ],
+    "calories": 649,
+    "image": "https://media.istockphoto.com/id/491237104/fr/photo/saut%C3%A9-de-poulet-de-poivrons-et-de-haricots-verts.webp?a=1&b=1&s=612x612&w=0&k=20&c=ytBuY4F_tQPoRFnKEWZi27-mobMECqpdxASLtSd3Ims=",
+    "description": "Un plat savoureux : Poêlée de légumes d’été préparé avec soin et des ingrédients frais.",
+    "minute": 49
+  },
+  {
+    "nom": "Gratin d’endives au jambon variation 148",
+    "ingredients": [
+      "frites",
+      "fromage en grains",
+      "sauce brune"
+    ],
+    "calories": 594,
+    "image": "https://media.istockphoto.com/id/1177037208/fr/photo/chicor%C3%A9e-cuite-au-four-avec-jambon-et-fromage.webp?a=1&b=1&s=612x612&w=0&k=20&c=NxN1A5zuqt20jQ2jAhS6Y5ffMdpG1tzoIJYRqPuDdJQ=",
+    "description": "Un plat savoureux : Gratin d’endives au jambon préparé avec soin et des ingrédients frais.",
+    "minute": 19
+  },
+  {
+    "nom": "Toasts avocat-œuf variation 149",
+    "ingredients": [
+      "poulet",
+      "riz basmati",
+      "épices",
+      "yaourt",
+      "oignon"
+    ],
+    "calories": 767,
+    "image": "https://media.istockphoto.com/id/932798818/fr/photo/brunch-oeufs-sains-lard-frit.webp?a=1&b=1&s=612x612&w=0&k=20&c=8HaR2xrRt2fPBr5z10-LEedxPl5MmmXVpwIBXkoRXKM=",
+    "description": "Un plat savoureux : Toasts avocat-œuf préparé avec soin et des ingrédients frais.",
+    "minute": 21
+  },
+  {
+    "nom": "Spaghetti au citron variation 150",
+    "ingredients": [
+      "gnocchis",
+      "pesto",
+      "parmesan"
+    ],
+    "calories": 712,
+    "image": "https://media.istockphoto.com/id/821054522/fr/photo/spaghetti-maison-basilic-citron.webp?a=1&b=1&s=612x612&w=0&k=20&c=_oCbRKPBVoO1QPRIFWHXN44nbgyVAUFsOnzffkJYM0Y=",
+    "description": "Un plat savoureux : Spaghetti au citron préparé avec soin et des ingrédients frais.",
+    "minute": 59
+  },
+  {
+    "nom": "Omelette espagnole variation 151",
+    "ingredients": [
+      "agneau",
+      "abricots",
+      "oignons",
+      "épices",
+      "huile d'olive",
+      "amandes"
+    ],
+    "calories": 837,
+    "image": "https://media.istockphoto.com/id/1128923200/fr/photo/tortilla-espagnole-avec-des-ingr%C3%A9dients-sur-table-de-cuisine-en-bois.webp?a=1&b=1&s=612x612&w=0&k=20&c=PvGCvytaJWxvH2ELaFZDUYGxs4rHcdnFE2gT_-TkkDY=",
+    "description": "Un plat savoureux : Omelette espagnole préparé avec soin et des ingrédients frais.",
+    "minute": 48
+  },
+  {
+    "nom": "Maki au thon épicé variation 152",
+    "ingredients": [
+      "thon",
+      "riz vinaigré",
+      "avocat",
+      "edamame",
+      "sésame",
+      "sauce soja"
+    ],
+    "calories": 414,
+    "image": "https://media.istockphoto.com/id/2153598363/fr/photo/assorted-japanese-seafood-sushi-and-sushi-rolls.webp?a=1&b=1&s=612x612&w=0&k=20&c=4Ezw1N1VTpN5QXrFWeG-_oQBJn2xCHkLVvvef0-y0-Q=",
+    "description": "Un plat savoureux : Maki au thon épicé préparé avec soin et des ingrédients frais.",
+    "minute": 38
+  },
+  {
+    "nom": "Lasagnes de légumes variation 153",
+    "ingredients": [
+      "tofu",
+      "lait de coco",
+      "curry rouge",
+      "légumes variés",
+      "basilic"
+    ],
+    "calories": 623,
+    "image": "https://media.istockphoto.com/id/508652097/fr/photo/lasagnes-aux-%C3%A9pinards-et-%C3%A0-la-ricotta.webp?a=1&b=1&s=612x612&w=0&k=20&c=OvPz5vhHfLuc5xU5qinDff0JVyKGkFAhTIjGO3dUt9E=",
+    "description": "Un plat savoureux : Lasagnes de légumes préparé avec soin et des ingrédients frais.",
+    "minute": 45
+  },
+  {
+    "nom": "Poulet à l’estragon variation 154",
+    "ingredients": [
+      "riz",
+      "bœuf haché",
+      "carottes",
+      "œuf",
+      "épinards",
+      "sauce gochujang"
+    ],
+    "calories": 507,
+    "image": "https://media.istockphoto.com/id/1481845331/fr/photo/au-b%C5%93uf-%C3%A9pic%C3%A9.webp?a=1&b=1&s=612x612&w=0&k=20&c=026erZRNbEfolEyqAkmflarVhAcWhCxLdwLB3yHg3xg=",
+    "description": "Un plat savoureux : Poulet à l’estragon préparé avec soin et des ingrédients frais.",
+    "minute": 50
+  },
+  {
+    "nom": "Couscous végétarien variation 155",
+    "ingredients": [
+      "miso",
+      "algues",
+      "tofu",
+      "ciboulette",
+      "bouillon"
+    ],
+    "calories": 743,
+    "image": "https://media.istockphoto.com/id/1312045947/fr/photo/plan-rapproch%C3%A9-dun-plat-de-tabbouleh.webp?a=1&b=1&s=612x612&w=0&k=20&c=mUd4ktFiM-qiamRhKu7YrXMNEUGbrY0c8agJuAfakEI=",
+    "description": "Un plat savoureux : Couscous végétarien préparé avec soin et des ingrédients frais.",
+    "minute": 45
+  },
+  {
+    "nom": "Blanquette de veau variation 156",
+    "ingredients": [
+      "poisson",
+      "tortillas",
+      "chou",
+      "salsa",
+      "citron vert"
+    ],
+    "calories": 596,
+    "image": "https://media.istockphoto.com/id/1182445993/fr/photo/veau-%C3%A0-la-cr%C3%A8me-carotte-et-feuille.webp?a=1&b=1&s=612x612&w=0&k=20&c=miiVYagIT38ZmG5D9GaUu-F3k0hc7oa4JfTJ22jbz60=",
+    "description": "Un plat savoureux : Blanquette de veau préparé avec soin et des ingrédients frais.",
+    "minute": 18
+  },
+  {
+    "nom": "Galettes de sarrasin au saumon variation 157",
+    "ingredients": [
+      "baguette",
+      "porc",
+      "carottes",
+      "concombre",
+      "coriandre",
+      "pâté",
+      "sauce soja"
+    ],
+    "calories": 478,
+    "image": "https://media.istockphoto.com/id/667903356/fr/photo/galette-sarrasin-cr%C3%AApe-de-sarrasin.webp?a=1&b=1&s=612x612&w=0&k=20&c=9LiVXhk-3CyQwRrDJuyCG4wcof0GQeo0LkPC5TqoCtE=",
+    "description": "Un plat savoureux : Galettes de sarrasin au saumon préparé avec soin et des ingrédients frais.",
+    "minute": 57
+  },
+  {
+    "nom": "Tajine d'agneau aux abricots variation 158",
+    "ingredients": [
+      "frites",
+      "fromage en grains",
+      "sauce brune"
+    ],
+    "calories": 585,
+    "image": "https://media.istockphoto.com/id/1161748748/fr/photo/tajine-marocain-traditionnel-de-poulet-avec-des-olives-et-des-citrons-sal%C3%A9s.webp?a=1&b=1&s=612x612&w=0&k=20&c=a_Ub23aPPcTXeekJtoK5z7TtYJsuNmSiF4Siyexwb7I=",
+    "description": "Un plat savoureux : Tajine d'agneau aux abricots préparé avec soin et des ingrédients frais.",
+    "minute": 44
+  },
+  {
+    "nom": "Poké bowl au thon variation 159",
+    "ingredients": [
+      "poulet",
+      "riz basmati",
+      "épices",
+      "yaourt",
+      "oignon"
+    ],
+    "calories": 862,
+    "image": "https://media.istockphoto.com/id/1136130610/fr/photo/bol-de-poke-de-thon-hawa%C3%AFen.webp?a=1&b=1&s=612x612&w=0&k=20&c=iakDVwiHGnw6K_z-U7aveFzxkrPkYchWx9EqgCfZpsw=",
+    "description": "Un plat savoureux : Poké bowl au thon préparé avec soin et des ingrédients frais.",
+    "minute": 24
+  },
+  {
+    "nom": "Curry rouge végétarien variation 160",
+    "ingredients": [
+      "gnocchis",
+      "pesto",
+      "parmesan"
+    ],
+    "calories": 878,
+    "image": "https://media.istockphoto.com/id/1279832593/fr/photo/chou-fleur-r%C3%B4ti-au-curry.webp?a=1&b=1&s=612x612&w=0&k=20&c=Gmpl7F6EUZ8sTVqIxQcOD5R_arRQCl4IGFLTEC5AgoQ=",
+    "description": "Un plat savoureux : Curry rouge végétarien préparé avec soin et des ingrédients frais.",
+    "minute": 27
+  },
+  {
+    "nom": "Bibimbap coréen variation 161",
+    "ingredients": [
+      "agneau",
+      "abricots",
+      "oignons",
+      "épices",
+      "huile d'olive",
+      "amandes"
+    ],
+    "calories": 400,
+    "image": "https://media.istockphoto.com/id/694875490/fr/photo/soupe-au-vermicelle.webp?a=1&b=1&s=612x612&w=0&k=20&c=r2S35ImRo-_LZ-FzzFDrOYS6te-yEncN7el774DhwCg=",
+    "description": "Un plat savoureux : Bibimbap coréen préparé avec soin et des ingrédients frais.",
+    "minute": 41
+  },
+  {
+    "nom": "Soupe miso aux algues variation 162",
+    "ingredients": [
+      "thon",
+      "riz vinaigré",
+      "avocat",
+      "edamame",
+      "sésame",
+      "sauce soja"
+    ],
+    "calories": 717,
+    "image": "https://media.istockphoto.com/id/1479465763/fr/photo/un-bol-de-soupe-miso-japonaise-rempli-de-varech-et-dingr%C3%A9dients.webp?a=1&b=1&s=612x612&w=0&k=20&c=3ICLPDPujNpfJZt4QlNaEfmjRN-yeyHrEY1RiBzcrak=",
+    "description": "Un plat savoureux : Soupe miso aux algues préparé avec soin et des ingrédients frais.",
+    "minute": 24
+  },
+  {
+    "nom": "Tacos de poisson variation 163",
+    "ingredients": [
+      "tofu",
+      "lait de coco",
+      "curry rouge",
+      "légumes variés",
+      "basilic"
+    ],
+    "calories": 463,
+    "image": "https://media.istockphoto.com/id/185101854/fr/photo/tacos-de-poisson.webp?a=1&b=1&s=612x612&w=0&k=20&c=h5Uov5NCAbTXh61cMTbgwDjNY0ZDr1DpIWzoOXo5zmU=",
+    "description": "Un plat savoureux : Tacos de poisson préparé avec soin et des ingrédients frais.",
+    "minute": 39
+  },
+  {
+    "nom": "Banh mi au porc variation 164",
+    "ingredients": [
+      "riz",
+      "bœuf haché",
+      "carottes",
+      "œuf",
+      "épinards",
+      "sauce gochujang"
+    ],
+    "calories": 698,
+    "image": "https://media.istockphoto.com/id/1959535766/fr/photo/vietnamese-banh-mi-sandwich.webp?a=1&b=1&s=612x612&w=0&k=20&c=--xIMFln0koTr6yAEtcVpRnqXjS6oeZ_FpNvu2zS-SM=",
+    "description": "Un plat savoureux : Banh mi au porc préparé avec soin et des ingrédients frais.",
+    "minute": 23
+  },
+  {
+    "nom": "Poutine québécoise variation 165",
+    "ingredients": [
+      "miso",
+      "algues",
+      "tofu",
+      "ciboulette",
+      "bouillon"
+    ],
+    "calories": 685,
+    "image": "https://media.istockphoto.com/id/452682759/fr/photo/poutine.webp?a=1&b=1&s=612x612&w=0&k=20&c=AVFHF-ahsp8-A6nzNu7nsLywB-4U5Q6tMsqLsMtTFmc=",
+    "description": "Un plat savoureux : Poutine québécoise préparé avec soin et des ingrédients frais.",
+    "minute": 40
+  },
+  {
+    "nom": "Biryani au poulet variation 166",
+    "ingredients": [
+      "poisson",
+      "tortillas",
+      "chou",
+      "salsa",
+      "citron vert"
+    ],
+    "calories": 830,
+    "image": "https://media.istockphoto.com/id/1333127665/fr/photo/poulet-biryani-%C3%A9pic%C3%A9-indien-malabar-biryani-hyderabadi-biryani-dum-biriyani-pulao-bol-dor.webp?a=1&b=1&s=612x612&w=0&k=20&c=H2DHxQDYqyHmLg76662rPYbpPKl9Lngh0-UXEJaLP2g=",
+    "description": "Un plat savoureux : Biryani au poulet préparé avec soin et des ingrédients frais.",
+    "minute": 35
+  },
+  {
+    "nom": "Gnocchis au pesto variation 167",
+    "ingredients": [
+      "baguette",
+      "porc",
+      "carottes",
+      "concombre",
+      "coriandre",
+      "pâté",
+      "sauce soja"
+    ],
+    "calories": 793,
+    "image": "https://media.istockphoto.com/id/178538953/fr/photo/gnocchi-et-pesto-%C3%A0-la-roquette.webp?a=1&b=1&s=612x612&w=0&k=20&c=GwXqdl9oBwmG0VH7wf_4dgNpOJbMkhOTpfZTbOvyeTU=",
+    "description": "Un plat savoureux : Gnocchis au pesto préparé avec soin et des ingrédients frais.",
+    "minute": 26
+  },
+  {
+    "nom": "Tagliatelles aux truffes variation 168",
+    "ingredients": [
+      "frites",
+      "fromage en grains",
+      "sauce brune"
+    ],
+    "calories": 754,
+    "image": "https://media.istockphoto.com/id/1351340327/fr/photo/p%C3%A2tes-aux-tranches-de-truffe-noire-fra%C3%AEche.webp?a=1&b=1&s=612x612&w=0&k=20&c=jbwAFee163sUuy2BoKATG_3HsfaBofXosxFYm3-ibzk=",
+    "description": "Un plat savoureux : Tagliatelles aux truffes préparé avec soin et des ingrédients frais.",
+    "minute": 46
+  },
+  {
+    "nom": "Empanadas argentines variation 169",
+    "ingredients": [
+      "poulet",
+      "riz basmati",
+      "épices",
+      "yaourt",
+      "oignon"
+    ],
+    "calories": 858,
+    "image": "https://media.istockphoto.com/id/521954007/fr/photo/faits-maison-des-empanadas-poulet-farci.webp?a=1&b=1&s=612x612&w=0&k=20&c=U-EZXoK3MsUs57CNH68u_06kAe0cbg367XrJsWbkAJY=",
+    "description": "Un plat savoureux : Empanadas argentines préparé avec soin et des ingrédients frais.",
+    "minute": 23
+  },
+  {
+    "nom": "Yakitori de poulet variation 170",
+    "ingredients": [
+      "gnocchis",
+      "pesto",
+      "parmesan"
+    ],
+    "calories": 691,
+    "image": "https://media.istockphoto.com/id/1154425220/fr/photo/brochettes-de-poulet-japonais-yakitori.webp?a=1&b=1&s=612x612&w=0&k=20&c=C9mMLT8U7CmtGWfN2vfOCQXNT6nekVavJvZsB11bhzs=",
+    "description": "Un plat savoureux : Yakitori de poulet préparé avec soin et des ingrédients frais.",
+    "minute": 26
+  },
+  {
+    "nom": "Gâteau de crabe variation 171",
+    "ingredients": [
+      "agneau",
+      "abricots",
+      "oignons",
+      "épices",
+      "huile d'olive",
+      "amandes"
+    ],
+    "calories": 625,
+    "image": "https://media.istockphoto.com/id/1288905158/fr/photo/g%C3%A2teaux-croustillants-au-thon-et-ricotta-%C3%A0-loignon-vert-poivrons-rouges-et-trempette-%C3%A0-la.webp?a=1&b=1&s=612x612&w=0&k=20&c=BGZJ-_-ngPDHSuO5b8tOHDriZ7EicLIO-fy3qvj1Aow=",
+    "description": "Un plat savoureux : Gâteau de crabe préparé avec soin et des ingrédients frais.",
+    "minute": 43
+  },
+  {
+    "nom": "Soupe pho vietnamienne variation 172",
+    "ingredients": [
+      "thon",
+      "riz vinaigré",
+      "avocat",
+      "edamame",
+      "sésame",
+      "sauce soja"
+    ],
+    "calories": 741,
+    "image": "https://media.istockphoto.com/id/1462352351/fr/photo/po.webp?a=1&b=1&s=612x612&w=0&k=20&c=Mo46kVCjqkWjYUxvnkcfi4a-4ht-JERUWvY5Ag-6S58=",
+    "description": "Un plat savoureux : Soupe pho vietnamienne préparé avec soin et des ingrédients frais.",
+    "minute": 40
+  },
+  {
+    "nom": "Chakchouka tunisienne variation 173",
+    "ingredients": [
+      "tofu",
+      "lait de coco",
+      "curry rouge",
+      "légumes variés",
+      "basilic"
+    ],
+    "calories": 690,
+    "image": "https://images.unsplash.com/photo-1584278859380-c94d92e083dd?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hha2Nob3VrYSUyMHR1bmlzaWVubmV8ZW58MHx8MHx8fDA%3D",
+    "description": "Un plat savoureux : Chakchouka tunisienne préparé avec soin et des ingrédients frais.",
+    "minute": 57
+  },
+  {
+    "nom": "Tofu sauté aux légumes variation 174",
+    "ingredients": [
+      "riz",
+      "bœuf haché",
+      "carottes",
+      "œuf",
+      "épinards",
+      "sauce gochujang"
+    ],
+    "calories": 737,
+    "image": "https://media.istockphoto.com/id/801389272/fr/photo/tofu-frit.webp?a=1&b=1&s=612x612&w=0&k=20&c=Beg-MLMKepbg4pYuGjbxuJCmhEdNBLRjxf4cjK8R37c=",
+    "description": "Un plat savoureux : Tofu sauté aux légumes préparé avec soin et des ingrédients frais.",
+    "minute": 54
+  },
+  {
+    "nom": "Nouilles soba froides variation 175",
+    "ingredients": [
+      "miso",
+      "algues",
+      "tofu",
+      "ciboulette",
+      "bouillon"
+    ],
+    "calories": 738,
+    "image": "https://media.istockphoto.com/id/1393404893/fr/photo/crevettes-teriyaki-avec-nouilles-ramen.webp?a=1&b=1&s=612x612&w=0&k=20&c=8YOQb1hjV8J6N7JVPDdlnLEqzdYQuCRc3V0VME5Jg28=",
+    "description": "Un plat savoureux : Nouilles soba froides préparé avec soin et des ingrédients frais.",
+    "minute": 17
+  },
+  {
+    "nom": "Kefta à la marocaine variation 176",
+    "ingredients": [
+      "poisson",
+      "tortillas",
+      "chou",
+      "salsa",
+      "citron vert"
+    ],
+    "calories": 468,
+    "image": "https://media.istockphoto.com/id/181064432/fr/photo/kofte-kefta-%C3%A0-lagneau-kababs-moyen-orient.webp?a=1&b=1&s=612x612&w=0&k=20&c=NkZ_ekRnKVGDJJCwyJVR8JkUq6iXxcSB-eiY1Z9MrYo=",
+    "description": "Un plat savoureux : Kefta à la marocaine préparé avec soin et des ingrédients frais.",
+    "minute": 55
+  },
+  {
+    "nom": "Moussaka grecque variation 177",
+    "ingredients": [
+      "baguette",
+      "porc",
+      "carottes",
+      "concombre",
+      "coriandre",
+      "pâté",
+      "sauce soja"
+    ],
+    "calories": 468,
+    "image": "https://media.istockphoto.com/id/483402408/fr/photo/une-moussaka-grecque-traditionnelle-plat.webp?a=1&b=1&s=612x612&w=0&k=20&c=pac_NgEqQLFt-Z9e8d0GGoxNJvTLPaVv6UBjAlaxb2M=",
+    "description": "Un plat savoureux : Moussaka grecque préparé avec soin et des ingrédients frais.",
+    "minute": 19
+  },
+  {
+    "nom": "Sandwich club variation 178",
+    "ingredients": [
+      "frites",
+      "fromage en grains",
+      "sauce brune"
+    ],
+    "calories": 805,
+    "image": "https://media.istockphoto.com/id/1927582000/fr/photo/sandwich-au-bacon-laitue-tomate-et-dinde-%C3%A0-lassiette.webp?a=1&b=1&s=612x612&w=0&k=20&c=i-E-hRsyf2DqudHGng8oI6NYVXyLJQ5PcCdHTDdcL7s=",
+    "description": "Un plat savoureux : Sandwich club préparé avec soin et des ingrédients frais.",
+    "minute": 48
+  },
+  {
+    "nom": "Roulés de printemps variation 179",
+    "ingredients": [
+      "poulet",
+      "riz basmati",
+      "épices",
+      "yaourt",
+      "oignon"
+    ],
+    "calories": 900,
+    "image": "https://plus.unsplash.com/premium_photo-1663850685202-7ef603771118?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm91bCVDMyVBOWVzJTIwZGUlMjBwcmludGVtcHN8ZW58MHx8MHx8fDA%3D",
+    "description": "Un plat savoureux : Roulés de printemps préparé avec soin et des ingrédients frais.",
+    "minute": 46
+  },
+  {
+    "nom": "Burgers de lentilles variation 180",
+    "ingredients": [
+      "gnocchis",
+      "pesto",
+      "parmesan"
+    ],
+    "calories": 428,
+    "image": "https://media.istockphoto.com/id/2162366606/fr/photo/burger-titan-de-titan.webp?a=1&b=1&s=612x612&w=0&k=20&c=eyTE87tOQfKHaS1R_imrfBidKpuIjVrp6O-Go5GEKDM=",
+    "description": "Un plat savoureux : Burgers de lentilles préparé avec soin et des ingrédients frais.",
+    "minute": 19
+  }
+]
